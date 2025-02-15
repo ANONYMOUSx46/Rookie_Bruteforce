@@ -1,8 +1,3 @@
-'''
-Forage AIG Cybersecurity Program 
-Bruteforce template
-'''
-
 from zipfile import ZipFile
 
 # Attempt to extract the zip file with the given password
